@@ -21,3 +21,11 @@ body {
     background-color: red;
     width: 100px;
   }
+
+  .ex_wrong {
+    color: red;
+  }
+
+  .ex_right {
+    color: green;
+  }
